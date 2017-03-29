@@ -1,4 +1,4 @@
-# React Single-page Application script
+# React Single-page application script
 No configuration needed, code sooner! After running the setup.sh script, just run 'npm start' and it should work in the dev environment.
 
 Sets of command that sets ensures node/npm is up-to-date and bootstraps with [Facebook Incubator - Create React App](https://github.com/facebookincubator/create-react-app).
